@@ -1,0 +1,168 @@
+
+*{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+    height: 100vh;
+}
+
+.nav-bg{
+    width: 100%;
+    height: 67px;
+    box-shadow: -2px 10px 14px -8px rgba(41, 41, 41, 0.473);
+}
+
+.logo-nav{
+    width: 100%;
+    height: 28px;
+    margin-right: 250px;
+}
+
+.img-remod{
+   /*  margin-top: 50px;
+    width: 100%;
+    height: 183.76px;
+    background: url(../img/fondo-desktop.png); */
+
+}
+
+#img_superior_fondo{
+    width: 100% !important;
+}
+
+.title-car{
+    margin-top: 20px;
+    color:  #F15B67;;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.img-car{
+    width: 100%;
+    background-repeat: no-repeat !important;
+    background-size: auto;
+    height: 100%;
+    background: url(../img/auto-desktop.jpg);
+}
+
+.title-2{
+    margin-top: 20px;
+    width: 312px;
+    height: 52px;
+    color: #6D6E71;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+.logo-insta{
+    /* margin: 10px;
+    width: 35px;
+    height: 35px;
+    left: 130px;
+     */
+}
+
+.title-3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #6D6E71;
+}
+
+.logo-f{
+    /* margin: 10px;
+    width: 30px;
+    height: 30px; */
+
+}
+
+.title-4{
+    width: 127px;
+    height: 26px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #6D6E71;
+}
+
+.contenedor_1{
+    position: relative !important;
+}
+
+
+
+.logo-iso{
+    position: absolute;
+    right: 0px !important;
+    bottom: 0px !important;
+    width: 20% !important;
+}
+
+.contenedor_2{
+    position: relative !important;
+}
+
+
+.logo-iso_cel{
+    margin-left: auto !important;
+    /* right: 0px !important; */
+    width: 20% !important;
+    
+}
+
+.bg-foot{
+  height: 220px !important;
+    background-color: #6D6E71;
+}
+
+.bg-foot_cel{
+    width: 100%;
+    background-color: #6D6E71;
+}
+
+.direc{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.direcc{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.7;
+    text-transform: capitalize;
+}
+.logo-footer{
+    margin-top: 20px;
+    width: 133px;
+    height: 36px;
+    background: url(../img/Group\ 40.png);
+}
+.copy{
+    
+    margin-left: 155px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #FFFFFF;
+    opacity: 0.7;
+    text-transform: capitalize;
+}
+
+
+@media (max-width: 600px){
+    
+}
