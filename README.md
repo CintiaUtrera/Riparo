@@ -1,4 +1,4 @@
 # Landing para Riparo
 
 ## Link
-Link del deploy:
+Link del deploy: https://riparo.netlify.app/
